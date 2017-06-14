@@ -1,0 +1,29 @@
+{
+  "name": "add-camera-on-manifest",
+  "version": "0.0.1",
+  "description": "add camera on manifest",
+  "cordova": {
+    "id": "cordova-plugin-camera",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanhs/add-camera-on-manifest.git"
+  },
+  "keywords": [
+    "cordova",
+    "camera",
+    "cordova-android"
+  ],
+  "peerDependencies": {
+    "cordova-plugin-file": ">=2.0.0"
+  },
+  "scripts": {
+  },
+  "author": "Ryan hs",
+  "license": "Apache-2.0",
+  "devDependencies": {
+  }
+}
